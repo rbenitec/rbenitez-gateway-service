@@ -10,7 +10,7 @@ spring:
 #  port: 8082
 logging:
   file:
-    name: /home/usrfc/mth-applications-dev/biller/log/transactionservice.log
+    name: /home/usrfc/mth-applications-dev/biller/log/gatewayservice.log
   level:
     root: ERROR
     org:
